@@ -22,11 +22,7 @@
 
 **Навыки:**  
 
-<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/2ba590ee-7eae-47f4-aa4c-983378ea7ed6" width=5% />
-<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/3253a6ff-0c3f-4d02-be25-6685edc4ec5d" width=5% />
-<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c02c86c7-c724-4a70-8c66-7c876f7c8c48" width=5% />
-<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/5eb28c0f-e9aa-459b-b616-a2bb9210b5db" width=5% />
-<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/5141d827-23f1-496b-8edc-eeb3c99cc06d" width=5% />
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/2ba590ee-7eae-47f4-aa4c-983378ea7ed6" width=5% /> <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/3253a6ff-0c3f-4d02-be25-6685edc4ec5d" width=5% /> <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c02c86c7-c724-4a70-8c66-7c876f7c8c48" width=5% /> <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/5eb28c0f-e9aa-459b-b616-a2bb9210b5db" width=5% /> <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/5141d827-23f1-496b-8edc-eeb3c99cc06d" width=5% />
 
 ***
 
