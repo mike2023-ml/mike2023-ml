@@ -16,6 +16,10 @@ Markdown | не такой | красивый
 *Но выводится* | `так же` | **клево**
 1 | 2 | 3
 
-**Дипломы и сертификаты**  
-| ![Сертификат Stepik](https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e) | ![Сертификат Stepik](https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e) |
+**Дипломы и сертификаты:**
+
+
+**Others:**
+
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e" width ="250" /><img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e" width ="250" /><img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e" width ="250" /><img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e" width ="250" />
 
