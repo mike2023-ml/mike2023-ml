@@ -24,9 +24,7 @@
 
 ### Контакты:
 
-<a href="https://t.me/mikenonstop" rel="nofollow">
-<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/71b8222a-e363-47f9-95cf-008a4b7f97c6" width=4%>
-</a>
+[<img alt="alt_text" width="40px" src="https://github.com/mike2023-ml/mike2023-ml/assets/116313032/71b8222a-e363-47f9-95cf-008a4b7f97c6" />](https://t.me/mikenonstop)
 
 ***
 
