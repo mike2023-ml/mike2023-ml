@@ -24,7 +24,7 @@
 
 ### Контакты:
 
-[https://github.com/mike2023-ml/mike2023-ml/assets/116313032/71b8222a-e363-47f9-95cf-008a4b7f97c6](https://t.me/mikenonstop)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mikenonstop)
 
 ***
 
