@@ -38,11 +38,18 @@
 
 ### :hammer_and_wrench: Навыки:  
 
-<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/2ba590ee-7eae-47f4-aa4c-983378ea7ed6" width=3% /> <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/3253a6ff-0c3f-4d02-be25-6685edc4ec5d" width=3% /> <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c02c86c7-c724-4a70-8c66-7c876f7c8c48" width=3% /> <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/5eb28c0f-e9aa-459b-b616-a2bb9210b5db" width=3% /> <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/5141d827-23f1-496b-8edc-eeb3c99cc06d" width=3% />
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
+</div>
 
 ***
 
-### Дипломы и сертификаты:
+### :mortar_board: Дипломы и сертификаты:
 
 
 **Others:**
