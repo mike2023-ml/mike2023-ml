@@ -17,7 +17,7 @@
 | № | Проект       | Задачи проекта                | Навыки и инструменты |
 |:--:| :-------------: |:------------------:| :-----:|
 |1| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/mike2023-ml/Portfolio/tree/main/SPB%20realty) | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир. | Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных |
-|2| Классификация клиентов телеком компании | На основе данных предложить клиенту тариф. | Python, Pandas, Matplotlib, Scikit-learn |
+|2| [Классификация клиентов телеком компании](https://github.com/mike2023-ml/Portfolio/tree/main/Tariff%20recommendation) | На основе данных предложить клиенту тариф. | Python, Pandas, Matplotlib, Scikit-learn |
 |3| [Прогнозирование оттока клиентов Банка](https://github.com/mike2023-ml/Portfolio/tree/main/Сustomer%20behavior) | На основе данных из банка определить клиента, который может уйти. | Python, Pandas, Matplotlib, Scikit-learn |
 |4| [Определение наиболее выгодного региона нефтедобычи](https://github.com/mike2023-ml/Portfolio/tree/main/Oil%20location)| На основе данных геологической разведки выбрать район добычи нефти. | Python, Pandas, Scikit-learn, бутстреп |
 |5| [Исследование технологического процесса очистки золота](https://github.com/mike2023-ml/Portfolio/tree/main/Gold%20recovery) | Спрогнозировать концентрацию золота при проведении процесса очистки золота. | Python, Pandas, Scikit-learn, NumPy, Seaborn, Matplotlib, исследовательский анализ данных |
