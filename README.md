@@ -22,7 +22,7 @@
 |4| [Определение наиболее выгодного региона нефтедобычи](https://github.com/mike2023-ml/Portfolio/tree/main/Oil%20location)| На основе данных геологической разведки выбрать район добычи нефти. | Python, Pandas, Scikit-learn, бутстреп |
 |5| [Исследование технологического процесса очистки золота](https://github.com/mike2023-ml/Portfolio/tree/main/Gold%20recovery) | Спрогнозировать концентрацию золота при проведении процесса очистки золота. | Python, Pandas, Scikit-learn, NumPy, Seaborn, Matplotlib, исследовательский анализ данных |
 |6| [Защита данных клиентов страховой компании](https://github.com/mike2023-ml/Portfolio/tree/main/Customer%20data%20protection) | Разработка модели анонимизации персональных данных. | Python, NumPy, Scikit-learn |
-|7| Построение модели определения стоимости автомобиля | Разработка системы рекомендации стоимости автомобиля на основе его описания. | Python, Pandas, Lightgbm |
+|7| [Построение модели определения стоимости автомобиля](https://github.com/mike2023-ml/Portfolio/tree/main/Car%20price) | Разработка системы рекомендации стоимости автомобиля на основе его описания. | Python, Pandas, Lightgbm |
 |8| [Прогнозирование количества заказов такси на следующий час](https://github.com/mike2023-ml/Portfolio/tree/main/Taxi%20orders) | Прогнозирование количества заказов такси на следующий час. | Python, Pandas, Scikit-learn, Matplotlib, statsmodels, машинное обучение |
 |9| Обучение модели классификации комментариев | Определение токсичности комментария. | Python, Pandas, ntlk, tf-idf |
 |10| Обработка фотографий покупателя | Определение возраста по фотографии. | Python, Keras |
