@@ -55,7 +55,7 @@
 
 В процессе получения...
 
-**Others:**
+**Другие:**
 
 <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e" width=25% />
 
