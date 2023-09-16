@@ -24,7 +24,7 @@
 |6| [Защита данных клиентов страховой компании](https://github.com/mike2023-ml/Portfolio/tree/main/Customer%20data%20protection) | Разработка модели анонимизации персональных данных. | Python, NumPy, Scikit-learn |
 |7| [Построение модели определения стоимости автомобиля](https://github.com/mike2023-ml/Portfolio/tree/main/Car%20price) | Разработка системы рекомендации стоимости автомобиля на основе его описания. | Python, Pandas, Lightgbm |
 |8| [Прогнозирование количества заказов такси на следующий час](https://github.com/mike2023-ml/Portfolio/tree/main/Taxi%20orders) | Прогнозирование количества заказов такси на следующий час. | Python, Pandas, Scikit-learn, Matplotlib, statsmodels, машинное обучение |
-|9| Обучение модели классификации комментариев | Определение токсичности комментария. | Python, Pandas, ntlk, tf-idf |
+|9| [Обучение модели классификации комментариев](https://github.com/mike2023-ml/Portfolio/tree/main/Comments%20classification) | Определение токсичности комментария. | Python, Pandas, ntlk, tf-idf |
 |10| Обработка фотографий покупателя | Определение возраста по фотографии. | Python, Keras |
 |11| [Прогноз температуры стали во время плавки](https://github.com/mike2023-ml/Portfolio/tree/main/Melting%20point%20of%20steel) | Прогнозирование температуры стали во время плавки. | Python, Pandas, Matplotlib, Scikit-learn, исследовательский анализ данных |
 
