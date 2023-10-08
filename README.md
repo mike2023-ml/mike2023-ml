@@ -53,7 +53,10 @@
 
 **Яндекс.Практикум:**
 
-Жду, когда пришлют ...
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/07cd4cbb-438f-4e14-8be8-1fe0987a9f16" width=25% />
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/337470ce-4a05-46c2-b660-3654cab2a9d5" width=25% />
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/1373d308-9951-464a-872c-da848c9ddafa" width=25% />
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/e59755e1-3348-4c52-b4e6-2424aa1314d3" width=25% />
 
 **Другие:**
 
