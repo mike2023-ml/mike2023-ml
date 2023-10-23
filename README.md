@@ -16,7 +16,7 @@
 
 | № | Проект       | Задачи проекта                | Навыки и инструменты |
 |:--:| :-------------: |:------------------:| :-----:|
-|1| [GoodsForecast.OSA – Определение наличия товаров на полке в интервалах без продаж](https://github.com/mike2023-ml/Portfolio/tree/main/GoodsForecast%20Hack) | Используя данные, определить наличие товаров на полке в интервалах без продаж. | Python, Pandas, Scikit-learn, Catboost, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных |
+|1| [GoodsForecast.OSA (хакатон)](https://github.com/mike2023-ml/Portfolio/tree/main/GoodsForecast%20Hack) | Используя данные, определить наличие товаров на полке в интервалах без продаж. | Python, Pandas, Scikit-learn, Catboost, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных |
 
 ***
 
