@@ -60,7 +60,14 @@
 <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/e59755e1-3348-4c52-b4e6-2424aa1314d3" width=24%>  
 </div>
 
-**Другие:**
+**Курсы:**
 
 <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e" width=25% />
+
+**Хакатоны:**
+
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/ea269122-3b23-4a29-9855-01a0e2d7ad68" width=25% />
+
+**Другое:**
+
 
