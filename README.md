@@ -1,18 +1,18 @@
-# <div align='center'>👋 Здравствуйте, меня зовут Михаил!</div>
+# <div align='center'>👋 Hello, my name is Mikhail!</div>
 
-### Добро пожаловать на мою страницу! &nbsp;&nbsp;&nbsp;&nbsp;&emsp; ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) 
+### Welcome to my page! &nbsp;&nbsp;&nbsp;&nbsp;&emsp; ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) 
 
-👨🏻‍💻 **Несколько слов о себе:**  
+👨🏻‍💻 **A few words about myself:**  
 
-- Я начинающий специалист в области Data Science.  
-- Мой интерес к машинному обучению привел меня к изучению основных концепций и техник в этой области.  
-- В процессе учебы в Яндекс.Практикуме приобрел практический опыт работы с различными инструментами и языками программирования, такими как Python и SQL, а также с основными библиотеками и фреймворками, используемыми в Data Science, такими как Pandas, NumPy, Scikit-learn и TensorFlow.
-- У меня есть навыки визуализации данных с использованием библиотек, таких как Matplotlib и Seaborn, а также опыт обработки и очистки данных.  
-- Постоянно стремлюсь к саморазвитию в области Data Science и всегда готов изучать новые методы и технологии.
+- I am an aspiring Data Science professional.  
+- My interest in machine learning has led me to learn the basic concepts and techniques in the field.  
+- During my studies at Yandex.Practicum I gained practical experience with various programming tools and languages, such as Python and SQL, as well as with the main libraries and frameworks used in Data Science, such as Pandas, NumPy, Scikit-learn and TensorFlow.
+- I have skills in data visualisation using libraries such as Matplotlib and Seaborn, as well as experience in data processing and cleaning.  
+- I constantly strive for self-development in the field of Data Science and am always willing to learn new methods and technologies.
 
 ***
 
-### 🔥 Хакатоны, Kaggle, Pet-projects:
+### 🔥 Hackathons, Kaggle and Pet-projects:
 
 | № | Проект       | Задачи проекта                | Навыки и инструменты |
 |:--:| :-------------: |:------------------:| :-----:|
