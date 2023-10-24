@@ -14,15 +14,15 @@
 
 ### 🔥 Hackathons, Kaggle and Pet-projects:
 
-| № | Проект       | Задачи проекта                | Навыки и инструменты |
+| № | Project       | Project Tasks                | Skills and Tools |
 |:--:| :-------------: |:------------------:| :-----:|
 |1| [GoodsForecast.OSA (хакатон)](https://github.com/mike2023-ml/Portfolio/tree/main/GoodsForecast%20Hack) | Используя данные, определить наличие товаров на полке в интервалах без продаж. | Python, Pandas, Scikit-learn, Catboost, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных |
 
 ***
 
-### :card_index_dividers: Краткий обзор выполненных проектов:
+### :card_index_dividers: Summary of completed projects:
 
-| № | Проект       | Задачи проекта                | Навыки и инструменты |
+| № | Project       | Project Tasks                | Skills and Tools |
 |:--:| :-------------: |:------------------:| :-----:|
 |1| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/mike2023-ml/Portfolio/tree/main/SPB%20realty) | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир. | Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных |
 |2| [Классификация клиентов телеком компании](https://github.com/mike2023-ml/Portfolio/tree/main/Tariff%20recommendation) | На основе данных предложить клиенту тариф. | Python, Pandas, Matplotlib, Scikit-learn |
@@ -38,13 +38,13 @@
 
 ***
 
-### Контакты:
+### Contacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mikenonstop)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mikenonstop/)
 ***
 
-### :hammer_and_wrench: Навыки:  
+### :hammer_and_wrench: Skills:  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -57,9 +57,9 @@
 
 ***
 
-### :mortar_board: Дипломы и сертификаты:
+### :mortar_board: Diplomas and Certificates:
 
-**Яндекс.Практикум:**
+**Yandex.Practicum:**
 
 <div>
 <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/07cd4cbb-438f-4e14-8be8-1fe0987a9f16" width=24%/>
@@ -68,14 +68,14 @@
 <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/e59755e1-3348-4c52-b4e6-2424aa1314d3" width=24%>  
 </div>
 
-**Курсы:**
+**Courses:**
 
 <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/c6af682d-ea95-43f3-b34f-e56f4860103e" width=25% />
 
-**Хакатоны:**
+**Hackathons:**
 
 <img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/ea269122-3b23-4a29-9855-01a0e2d7ad68" width=25% />
 
-**Другое:**
+**Others:**
 
 
