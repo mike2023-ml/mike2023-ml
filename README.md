@@ -4,7 +4,7 @@
 
 👨🏻‍💻 **A few words about myself:**  
 
-- I am an aspiring Data Science professional.  
+- I am a Data Scientist.  
 - My interest in machine learning has led me to learn the basic concepts and techniques in the field.  
 - During my studies at Yandex.Practicum I gained practical experience with various programming tools and languages, such as Python and SQL, as well as with the main libraries and frameworks used in Data Science, such as Pandas, NumPy, Scikit-learn and TensorFlow.
 - I have skills in data visualisation using libraries such as Matplotlib and Seaborn, as well as experience in data processing and cleaning.  
