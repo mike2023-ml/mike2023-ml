@@ -16,7 +16,8 @@
 
 | № | Project       | Project Tasks                | Skills and Tools |
 |:--:| :-------------: |:------------------:| :-----:|
-|1| [GoodsForecast.OSA (хакатон)](https://github.com/mike2023-ml/Portfolio/tree/main/GoodsForecast%20Hack) | Используя данные, определить наличие товаров на полке в интервалах без продаж. | Python, Pandas, Scikit-learn, Catboost, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных |
+|1| [GoodsForecast.OSA (hackathon DS)](https://github.com/mike2023-ml/Portfolio/tree/main/GoodsForecast%20Hack) | Используя данные, определить наличие товаров на полке в интервалах без продаж. | Python, Pandas, Scikit-learn, Catboost, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных |
+|2| Yandex.Music <br>(hackathon DS) <br>**`2 место`** | Разработка ML-решения для сопоставления текстов музыкальных произведений и обнаружения каверов среди треков, доступных на платформе Я.Музыка. | Python, NumPy, Scikit-learn, Catboost, NLP, SciPy, LaBSE, transformers, PyTorch, Matplotlib |
 
 ***
 
