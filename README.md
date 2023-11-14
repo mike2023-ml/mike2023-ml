@@ -81,7 +81,8 @@
 
 **Hackathons:**
 
-<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/ea269122-3b23-4a29-9855-01a0e2d7ad68" width=25% />
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/ea269122-3b23-4a29-9855-01a0e2d7ad68" width=24% />
+<img src = "https://github.com/mike2023-ml/mike2023-ml/assets/116313032/527e068b-3e23-4b77-b1eb-7d8ebf9c2769" width=24% />
 
 **Others:**
 
