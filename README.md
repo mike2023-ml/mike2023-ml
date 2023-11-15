@@ -12,7 +12,7 @@
 
 ***
 
-### 🔥 Hackathons, Kaggle and Pet-projects:
+### 🔥 Hackathons, Kaggle, Pet- and other projects:
 
 | № | Project       | Project Tasks                | Skills and Tools |
 |:--:| :-------------: |:------------------:| :-----:|
