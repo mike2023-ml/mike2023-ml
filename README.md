@@ -16,7 +16,7 @@
 
 | № | Project       | Project Tasks                | Skills and Tools |
 |:--:| :-------------: |:------------------:| :-----:|
-|1| [GoodsForecast.OSA (hackathon DS)](https://github.com/mike2023-ml/Portfolio/tree/main/GoodsForecast%20Hack) | Using the data, determine the availability of products on the shelf in intervals without sales. | Python, Pandas, Scikit-learn, Catboost, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных |
+|1| [GoodsForecast.OSA (hackathon DS)](https://github.com/mike2023-ml/Portfolio/tree/main/GoodsForecast%20Hack) | Using the data, determine the availability of products on the shelf in intervals without sales. | Python, Pandas, Scikit-learn, Catboost, Matplotlib, EDA, data visualisation, data preprocessing |
 |2| [Yandex.Music <br>(hackathon DS)](https://github.com/mike2023-ml/Portfolio/tree/main/Yandex.Music%20Hack) <br>**`2 место`** | Development of an ML solution for matching music lyrics and detecting covers among tracks available on the Yandex.Music platform. | Python, NumPy, Scikit-learn, Catboost, NLP, SciPy, LaBSE, transformers, PyTorch, Matplotlib |
 |3| [Prediction of bank customer behaviour <br>(test case)](https://github.com/mike2023-ml/Portfolio/tree/main/Prediction%20of%20bank%20customer%20behaviour) | To predict whether the client will leave the bank in the near future or not. | Python, NumPy, Scikit-learn, Catboost, Pipeline, Matplotlib |
 
